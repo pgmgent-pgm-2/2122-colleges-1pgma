@@ -1,0 +1,25 @@
+{
+  "name": "tinder",
+  "version": "0.0.1",
+  "description": "A clone of the tinder application made in JS",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "express start server"
+  },
+  "keywords": [
+    "tinder",
+    "js",
+    "commonjs"
+  ],
+  "author": "Adriaan Glibert",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "sass": "^1.45.0"
+  }
+}
